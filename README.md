@@ -2,4 +2,4 @@
 
 # This project is written by typescript
 
-![./pic/demo.png]
+![](pic/demo.png)
