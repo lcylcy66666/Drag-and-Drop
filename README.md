@@ -8,5 +8,4 @@ Begine frame
 
 
 You can drag your projects to finished projects!
-
 ![](pic/drag%drop-demo.png)
